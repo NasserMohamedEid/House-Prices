@@ -1,4 +1,4 @@
-# House-Prices
+# House Prices: Advanced Regression Techniques
 ## Introduction
 In this project, we explore various regression techniques to build a model that can accurately predict house prices. The project involves data preprocessing, feature engineering, feature selection, model training, and evaluation.
 ## Data Preprocessing
